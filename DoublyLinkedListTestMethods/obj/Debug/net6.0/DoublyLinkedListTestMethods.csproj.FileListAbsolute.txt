@@ -1,0 +1,204 @@
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.csproj.AssemblyReference.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.AssemblyInfoInputs.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.AssemblyInfo.cs
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.csproj.CoreCompileInputs.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\testhost.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\testhost.exe
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.deps.json
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.runtimeconfig.json
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.pdb
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.exe
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.pdb
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.exe.config
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLi.A1C776E7.Up2Date
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\refint\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.pdb
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.genruntimeconfig.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\ref\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\testhost.exe
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\testhost.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.deps.json
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.runtimeconfig.json
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListTestMethods.pdb
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.exe
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.pdb
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\DoublyLinkedListWithErrors.exe.config
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.csproj.AssemblyReference.cache
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.AssemblyInfoInputs.cache
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.AssemblyInfo.cs
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.csproj.CoreCompileInputs.cache
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLi.A1C776E7.Up2Date
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\refint\DoublyLinkedListTestMethods.dll
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.pdb
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\DoublyLinkedListTestMethods.genruntimeconfig.cache
+E:\BaiduSyncdisk\My-notes\IT\Principle of Software Testing\Assessment 1\PartA\DoublyLinkedListWithErrors\DoublyLinkedListTestMethods\obj\Debug\net6.0\ref\DoublyLinkedListTestMethods.dll

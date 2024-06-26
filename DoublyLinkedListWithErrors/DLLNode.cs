@@ -28,7 +28,13 @@ namespace DoublyLinkedListWithErrors
             }
             else
             {
-                for (int i = 2; i < Math.Sqrt(n); i++)
+                /* 
+                 * Original Code:
+                 * for (int i = 2; i < Math.Sqrt(n); i++)
+                 * Issue:
+                 * If there's no equal in the for loop statement, the loop will stop before checking the number that are equal to the square root of n
+                 */
+                for (int i = 2; i <= Math.Sqrt(n); i++)
                 {
                     if ((n % i) == 0)
                     {
@@ -36,6 +42,7 @@ namespace DoublyLinkedListWithErrors
                         break;
                     }
                 }
+
             }
             return (b);
         } // end of isPrime

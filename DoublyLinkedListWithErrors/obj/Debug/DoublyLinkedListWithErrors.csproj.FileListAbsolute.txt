@@ -10,3 +10,17 @@ C:\Courses_2019_Sem_2\COMP707\ThirdQuarter\DLL_WithErrors\DoublyLinkedListWithEr
 C:\Courses_2019_Sem_2\COMP707\ThirdQuarter\DLL_WithErrors\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
 C:\Courses_2019_Sem_2\COMP707\ThirdQuarter\DLL_WithErrors\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
 C:\Courses_2019_Sem_2\COMP707\ThirdQuarter\DLL_WithErrors\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe.config
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.pdb
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.AssemblyReference.cache
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
+F:\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe.config
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.pdb
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.AssemblyReference.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
+E:\BaiduSyncdisk\Projects\C#\practice\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb
